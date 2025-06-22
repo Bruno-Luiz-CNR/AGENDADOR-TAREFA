@@ -27,7 +27,7 @@ Este projeto é um sistema simples de gerenciamento de tarefas feito em Java, ut
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/java-todo-cli.git
+git clone https://github.com/Bruno-Luiz-CNR/AGENDADOR-TAREFA
 cd java-todo-cli
 
 # 2. Compile os arquivos Java
